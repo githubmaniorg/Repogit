@@ -1,7 +1,4 @@
-this line is added in stage branch
-
-
-this line is updated in master branch
+this is 2nd stash file
 added this line
 
 hello this is a test file
